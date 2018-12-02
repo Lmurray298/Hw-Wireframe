@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  header{
+      padding: 40px;
+      margin: 10px 110px 10px 110px;
+      color: #777777;
+      background-color: #ccc;
+      
+  }
+
+  nav{
+    padding: 40px;
+    margin: 10px 110px 10px 110px;
+    color: #777777;
+    background-color: #ccc;
+
+  }
+
+
+  section{
+      padding: 30px 100px 300px 100px;
+      margin: 10px 650px 0px 110px;
+      color: #777777;
+      background-color: #ccc;
+      float: none;
+    
+      
+      
+  }
+
+  
+  aside{
+      columns: #777777;;
+      background-color:blue;
+      float: right;
+      
+
+  }
+
+
+  footer{
+    padding: 40px;
+    margin: 10px 110px 100px 110px;
+    color: #777777;
+    background-color: #ccc;
+  }
+
+
+
+body {
+    background-color: #777777;
+
+}
