@@ -21,13 +21,14 @@
 
 
   section{
-      /*padding: 30px 100px 300px 100px;
-      margin: 10px 650px 0px 110px; */
+      
+      margin-left: 110px;
       color: #777777;
       background-color: #ccc;
       float: left;
-      width: 50%;
-      height: 100px;
+      width: 700px;
+      height: 350px;
+      
     
       
       
@@ -35,18 +36,26 @@
 
   
   aside{
-      columns: #777777;;
-      background-color:blue;
+      color: #777777;;
+      background-color: #ccc;
       float: left;
-      width: 50%;
+      width: 495px;
+      margin-left: 10px;
+      height: 350px;
       
+
+  }
+
+
+  article{
+        clear: both;
 
   }
 
 
   footer{
     padding: 40px;
-    margin: 170px 110px 100px 110px;
+    margin: 370px 110px 100px 110px;
     color: #777777;
     background-color: #ccc;
   }
