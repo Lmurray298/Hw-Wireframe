@@ -21,11 +21,13 @@
 
 
   section{
-      padding: 30px 100px 300px 100px;
-      margin: 10px 650px 0px 110px;
+      /*padding: 30px 100px 300px 100px;
+      margin: 10px 650px 0px 110px; */
       color: #777777;
       background-color: #ccc;
-      float: none;
+      float: left;
+      width: 50%;
+      height: 100px;
     
       
       
@@ -35,7 +37,8 @@
   aside{
       columns: #777777;;
       background-color:blue;
-      float: right;
+      float: left;
+      width: 50%;
       
 
   }
@@ -43,7 +46,7 @@
 
   footer{
     padding: 40px;
-    margin: 10px 110px 100px 110px;
+    margin: 170px 110px 100px 110px;
     color: #777777;
     background-color: #ccc;
   }
